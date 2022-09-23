@@ -1,6 +1,8 @@
 # NavigationDrawer_demo
 >an example project for demoing the usage of NavigationView.
-
+>
+> Reference : 
+> [Google material design for Android - Navigation drawer](https://material.io/components/navigation-drawer/android#using-navigation-drawers)
 
 目的 : 示範如何使用`Button`元件而非`Actionbar menu`開啟`NavigationView`，且在`NavigationView`加上其他自訂layout。
 
